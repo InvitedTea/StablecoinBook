@@ -1,4 +1,4 @@
-# STABLECOIN PLAYBOOK: The New Monetary Infrastructure for Global Business
+# STABLECOIN PLAYBOOK: The New Monetary Infrastructure for Global Business   By Vicky Fu
 
 A comprehensive guide for enterprises to understand, implement, and leverage stablecoins for business transformation.
 
